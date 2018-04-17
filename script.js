@@ -14,7 +14,7 @@ var nextGameNight = function() {
   var week4 = new Date(2018, 3, 19);
   var week5 = new Date(2018, 4, 1);
   var week6 = new Date(2018, 4, 17);
-  var week7 = new Date(2018, 2, 29);
+  var week7 = new Date(2018, 5, 29);
 
   //turn them into readable strings
   var week1str = week1.toLocaleDateString("en-US", {
