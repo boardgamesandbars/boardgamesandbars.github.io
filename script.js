@@ -3,6 +3,7 @@ $(document).on('click','.navbar-collapse',function(e) {
         $(this).collapse('hide');
     }
 });
+/*
 var nextGameNight = function() {
   //get today's date
   var d = new Date();
@@ -82,3 +83,4 @@ var nextGameNight = function() {
 };
 
 nextGameNight();
+*/
